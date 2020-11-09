@@ -1,9 +1,13 @@
 import React from 'react';
 
-const Card = () => {
+
+
+const Card = ({strain}) => {
+  
   return (
     <div className="Card">
-      I'm the card div! Look! See! Wow, how wonderfull.
+      <h3 className="Card-header">{strain.name}</h3>
+      {strain.blurb}
     </div>
   )
 }
