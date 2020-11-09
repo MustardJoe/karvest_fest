@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
 .App {
   text-align: center;
 }
@@ -14,6 +16,7 @@
 }
 
 .App-header {
+  font-family: 'Fredoka One', cursive;
   background-color: yellowgreen;
   min-height: 100vh;
   display: flex;
@@ -21,11 +24,17 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: darkgreen;
 }
 
 .App-link {
-  color: #61dafb;
+  color: olivedrab;
+}
+
+.Card {
+  background-color: yellowgreen;
+  border-width: 2px;
+  border-radius: 5%;
 }
 
 @keyframes App-logo-spin {

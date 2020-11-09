@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Card from './components/card/Card.js';
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
           rel="noopener noreferrer">
           Learn React
         </a>
+        <Card/>
+        <Card/>
       </header>
     </div>
   );
