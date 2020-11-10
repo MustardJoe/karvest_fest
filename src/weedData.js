@@ -22,8 +22,8 @@ let weedData = {
   },
   Bruce_Banner: {
     name: 'Bruce Banner #3',
-    blurb: `This is a mentally energizing, and at the same time, curiously-
-    also still a profoundly calming high. This is the most chill of any of
+    blurb: `This is a mentally energizing, and at the same time, 
+    also coriously a profoundly calming high. This is the most chill of any of
     these strains, but it is still definitely not a “chill out” strain.
     Many of the folks who got to try the last batch of this strain I grew
     said they really enjoyed it, although it isn’t one of my personal
