@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .App {
   text-align: center;
@@ -52,6 +53,19 @@
   font-size: calc(25px + 2vmin);
   min-width: 99vw;
   min-height: 100vh;
+}
+
+.Heres {
+  margin-bottom: 20vh;
+  font-size: calc(25px + 2vmin);
+}
+
+.Intro {
+  font-family: 'Pacifico', cursive;
+  margin-top: 50vh;
+  padding: 2em;
+  min-height: 100vh;
+  font-size: calc(35px + 2vmin);
 }
 
 .Title {
