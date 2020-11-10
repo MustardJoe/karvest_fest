@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
 .App {
   text-align: center;
@@ -11,27 +12,16 @@
   font-size: calc(10px + 2vmin);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  font-family: 'Fredoka One', cursive;
-  background-color: yellowgreen;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: darkgreen;
-}
-
 .App-link {
   color: olivedrab;
 }
 
+.Bong-ripper {
+  max-width: 60vw;
+}
+
 .Card {
+  font-family: 'Bree Serif', serif;
   background-color: yellowgreen;
   margin: 10px;
   padding: 10px;
@@ -42,6 +32,28 @@
 }
 
 .Card-header {
+  font-family: 'Fredoka One', cursive;
   background-color: darkgreen;
   color: yellowgreen;
+  padding: 10px;
+  border-radius: 12px;
+  font-size: calc(25px + 2vmin);
+  margin: 5px;
+}
+
+.Header {
+  font-family: 'Fredoka One', cursive;
+  background-color: darkgreen;
+  color: yellowgreen;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(25px + 2vmin);
+  min-width: 99vw;
+  min-height: 100vh;
+}
+
+.Title {
+  font-size: calc(50px + 2vmin);
 }
