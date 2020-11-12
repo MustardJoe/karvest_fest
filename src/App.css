@@ -26,6 +26,7 @@
   background-color: yellowgreen;
   margin: 10px;
   margin-bottom: 6vh;
+  margin-top: 6vh;
   padding: 10px;
   border-width: 2px;
   border-radius: 12px;
@@ -65,7 +66,7 @@
   font-family: 'Pacifico', cursive;
   background-color: gold;
   padding: 2em;
-  padding-top: 50vh;
+  padding-top: 35vh;
   min-height: 100vh;
   font-size: calc(35px + 2vmin);
 }
