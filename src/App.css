@@ -25,6 +25,7 @@
   font-family: 'Bree Serif', serif;
   background-color: yellowgreen;
   margin: 10px;
+  margin-bottom: 6vh;
   padding: 10px;
   border-width: 2px;
   border-radius: 12px;
@@ -62,8 +63,9 @@
 
 .Intro {
   font-family: 'Pacifico', cursive;
-  margin-top: 50vh;
+  background-color: gold;
   padding: 2em;
+  padding-top: 50vh;
   min-height: 100vh;
   font-size: calc(35px + 2vmin);
 }
