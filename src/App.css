@@ -62,13 +62,33 @@
   font-size: calc(25px + 2vmin);
 }
 
+.ImageContainer {
+  min-width: 100%;
+  height: 130vh;
+  background-size: 175%;
+  background-color: yellowgreen;
+  overflow: hidden;
+}
+
+.ImgFile {
+  min-width: 100%;
+  background-position-x: center;
+}
+
 .Intro {
   font-family: 'Pacifico', cursive;
   background-color: gold;
+  background-image: linear-gradient(yellowgreen 5%, gold);
   padding: 2em;
   padding-top: 35vh;
-  min-height: 100vh;
+  min-height: 80vh;
   font-size: calc(35px + 2vmin);
+}
+
+.Informo {
+  margin-top: 2em;
+  font-family: 'Pacifico', cursive;
+  max-width: 80%;
 }
 
 .Title {
