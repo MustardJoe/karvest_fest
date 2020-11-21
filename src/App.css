@@ -25,6 +25,10 @@ a {
   max-width: 60vw;
 }
 
+.ByTheWay {
+  max-width: 96%;
+}
+
 .Card {
   font-family: 'Bree Serif', serif;
   background-color: yellowgreen;
@@ -97,12 +101,13 @@ a {
 .Informo {
   margin-top: 1em;
   font-family: 'Bree Serif', serif;
-  margin-left: 5em;
-  margin-right: 5em;
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
 
 .LinksContainer {
   display: flex;
+  flex-direction: column;
 }
 
 .Pacifico {

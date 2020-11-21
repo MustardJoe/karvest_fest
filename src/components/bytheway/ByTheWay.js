@@ -2,10 +2,10 @@ import React from 'react';
 
 const ByTheWay = () => {
   return (
-    <section className="Informo">
+    <section className="Informo ByTheWay">
       <h2 className="Pacifico">Before You Leave...</h2>
       <p>Do you work in tech? As it just so happens I am currently
-        looking for my tech job. I'm a passionate full stack JavaScript
+        looking for my first tech job. I'm a passionate full stack JavaScript
         practitioner who’s also interested in Operations. I’m also a
         wonderful person to work with, and I’d love to be your new
         teammate!</p>
