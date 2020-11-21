@@ -26,8 +26,8 @@ function App() {
             provided by sativa and sativa-dominant cultivars, so that’s what I’ve grown.
           </p>
           <p>
-            Here’s to making to the end of 2020, hopefully we can all gather together
-            again whenever we can all gather together again,
+            Here’s to more or less making it to the end of 2020, hopefully we can all gather together
+            again someday, whenever we can all gather together again,
           </p>
           <p>
             Jon

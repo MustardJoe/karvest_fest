@@ -6,9 +6,9 @@ const ByTheWay = () => {
       <h2 className="Pacifico">Before You Leave...</h2>
       <p>Do you work in tech? As it just so happens I am currently
         looking for my first tech job. I'm a passionate full stack JavaScript
-        practitioner who’s also interested in Operations. I’m also a
+        practitioner who’s also interested in Operations. Additionally, I’m a
         wonderful person to work with, and I’d love to be your new
-        teammate!</p>
+        teammate and start doing all the crap you've been hoping to pass off to a new person!</p>
         <div>
           <p>Many paths of communication exist:</p>
           <span className="LinksContainer">
