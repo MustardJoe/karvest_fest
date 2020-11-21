@@ -11,7 +11,6 @@ function App() {
     <div className="App">
       <Header/>
       <ImageContainer />
-        <h3 className="Card-header">Inform-o regarding current weed strains you may have recieved:</h3>
       <section className="Informo">
           <p>Hi Friends!</p>
           <p>
@@ -33,6 +32,7 @@ function App() {
             Jon
           </p>
       </section>
+        <h3 className="Card-header">Inform-o regarding weed strains you may have recieved:</h3>
       <Card strain={weedData.Bruce_Banner}/>
       <Card strain={weedData.Sour_Deisel}/>
       <Card strain={weedData.Nightmare_Cookies}/>

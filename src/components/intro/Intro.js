@@ -8,7 +8,7 @@ const Intro = () => {
     <div className="Intro">
       <div className="Heres">
       <a className="NoDecorationLink" href="./">
-        As the old hippy saying goes:
+        As the old hippie saying goes:
         </a>
       </div>
       {ourSaying}
