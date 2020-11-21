@@ -17,6 +17,10 @@
   color: olivedrab;
 }
 
+a {
+  color: olive;
+}
+
 .Bong-ripper {
   max-width: 60vw;
 }
@@ -42,6 +46,11 @@
   border-radius: 12px;
   font-size: calc(25px + 2vmin);
   margin: 5px;
+}
+
+.ContactLinks {
+  margin: 8px;
+  font-family: 'Fredoka One', cursive;
 }
 
 .Header {
@@ -87,8 +96,16 @@
 
 .Informo {
   margin-top: 2em;
+  font-family: 'Bree Serif', serif;
+  max-width: 84%;
+}
+
+.LinksContainer {
+  display: flex;
+}
+
+.Pacifico {
   font-family: 'Pacifico', cursive;
-  max-width: 80%;
 }
 
 .Title {
