@@ -18,7 +18,7 @@
 }
 
 a {
-  color: olive;
+  color: seagreen;
 }
 
 .Bong-ripper {
@@ -49,7 +49,7 @@ a {
 }
 
 .ContactLinks {
-  margin: 8px;
+  padding: 8px;
   font-family: 'Fredoka One', cursive;
 }
 
@@ -62,7 +62,7 @@ a {
   align-items: center;
   justify-content: center;
   font-size: calc(25px + 2vmin);
-  min-width: 99vw;
+  min-width: 94vw;
   min-height: 100vh;
 }
 
@@ -89,15 +89,16 @@ a {
   background-color: gold;
   background-image: linear-gradient(yellowgreen 5%, gold);
   padding: 2em;
-  padding-top: 35vh;
-  min-height: 80vh;
+  padding-top: 25vh;
+  min-height: 75vh;
   font-size: calc(35px + 2vmin);
 }
 
 .Informo {
-  margin-top: 2em;
+  margin-top: 1em;
   font-family: 'Bree Serif', serif;
-  max-width: 84%;
+  margin-left: 5em;
+  margin-right: 5em;
 }
 
 .LinksContainer {
