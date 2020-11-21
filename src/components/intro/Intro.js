@@ -3,10 +3,13 @@ import sayings from '../../sayingsData';
 
 const Intro = () => {
   let ourSaying = sayings.getRandom();
+
   return (
     <div className="Intro">
       <div className="Heres">
-      As the old hippy saying goes:
+      <a className="NoDecorationLink" href="./">
+        As the old hippy saying goes:
+        </a>
       </div>
       {ourSaying}
     </div>

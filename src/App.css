@@ -110,6 +110,11 @@ a {
   flex-direction: column;
 }
 
+.NoDecorationLink {
+  text-decoration: none;
+  color: darkgreen;
+}
+
 .Pacifico {
   font-family: 'Pacifico', cursive;
 }
