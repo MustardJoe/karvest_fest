@@ -11,7 +11,7 @@ let weedData = {
   },
   Bruce_Banner: {
     name: 'Bruce Banner #3',
-    blurb: `This is a mentally energizing, and at the same time curiously, a profoundly calming high. This is the most chill of any of the strains I’ve grown this summer, but it is still definitely not a “chill out” strain. Many of the folks who got to try the batch of this really enjoyed it, although it isn’t one of my personal favorites. Probably a good choice for many to help decompress or “shift gear” ofter work or similar activity. If you want to completely space out mentally, this is a good choice.`,
+    blurb: `This is a mentally energizing, and at the same time curiously, a profoundly calming high. This is the most chill of any of the strains I’ve grown this summer, but it is still definitely not a “chill out” strain. Many of the folks who got to try the last batch of this really enjoyed it, although it isn’t one of my personal favorites. Probably a good choice for many to help decompress or “shift gear” ofter work or similar. If you want to completely space out mentally, this is a good choice.`,
     img: '',
   },
   Magic_Medicine: {
