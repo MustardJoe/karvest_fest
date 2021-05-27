@@ -9,7 +9,7 @@ const sayingsData = {
     '"Black lives matter, transphobes suck, and we need to stop destroying the only Earth we have. Fuck power"',
     '"Black lives matter, transphobes suck, and we need to stop destroying the only Earth we have. Fuck power"',
     '“I lived under this bridge for a while now and I do drugs and alcohol as part of my religion. If you want to do some graffiti here, that’s cool with me. Thanks for the cigarettes.“',
-    '"I’m the original Must-Mayo-Stard-Anayse."'
+    '"I’m the original Must-Mayo-Stard-a-Naise."'
   ],
   getRandom: () => {
     const randomMsg = sayingsData.sayings[Math.floor(Math.random()
