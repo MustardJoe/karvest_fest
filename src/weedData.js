@@ -11,7 +11,12 @@ let weedData = {
   },
   Laughing_Buddha: {
     name: 'Laughing Buddha',
-    blurb: 'Still growing, look for more info here in the next few weeks.',
+    blurb: 'A sativa-dominant strain, Laughing Buddha is a solid go-to smoke for me. It’s a blast of energy like I want, but I do feel the name is a bit of a misnomer, as the high leaves me feeling a bit more like a meditative, introspective Buddha, instead of the happy, filled with mirth Buddha, as I felt the name might imply. So not so much a party strain sativa, which might seem odd, but great for some solo time in the garden (my suggestion), or maybe a long walk of bike ride. And it’s almost without saying that it goes well with yoga or meditation.',
+    img: '',
+  },
+  Bubblegum: {
+    name: 'Bubblegum',
+    blurb: 'Bubblegum is an evenly split 50/50 hybrid that isn’t too powerful in or overwhelming in any one direction. Instead, it’s the kind of high that’s nice and mellow and hits a little bit of every note you might want - good head space adjustment without becoming too distracting, moderately physically relaxing without going to snooze town. It’s not the kind of weed that’s going to knock you over your ass (like the Magic Medicine defiantly will): it’s a laid back, content to linger in the background, kind of high. I think this strain is going to be a real crowd pleaser. Pairs well with reading on the couch while listening to music - maybe a lazy Sunday afternoon session. As a quick growers note, this was my first try growing an auto flowering variety of cannabis and I’m pretty happy with how it turned out.',
     img: '',
   },
   Nightmare_Cookies: {
