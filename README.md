@@ -1,6 +1,6 @@
 # Uncle Farmer Jonny Special Inform-o Webpage
-background-image: url("./src/assets/uncleFarmerJonny_FaceForWebsite.jpg");
 
+![alt text](./src/assets/uncleFarmerJonny_FaceForWebsite.jpg)
 
 
 ## Available Scripts
